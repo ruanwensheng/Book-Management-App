@@ -50,7 +50,7 @@ The app will be running at: [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## Notes
+## On developing
 
 - Currently, this app **does not use any backend/API**. All data is stored temporarily in component state (or `localStorage` if implemented).
 - It can be extended to work with Firebase, MongoDB, or any custom REST API.
