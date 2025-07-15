@@ -40,7 +40,7 @@ book-management-app/
 ## Installation & Running
 
 ```bash
-git clone https://github.com/your-username/book-management-app.git
+git clone https://github.com/ruanwensheng/Book-Management-App
 cd book-management-app
 npm install
 npm start
